@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+.card-title {
+  font-weight: 600;
+  color: #333;
+}
+
+.card-text {
+  font-size: 0.95rem;
+}
